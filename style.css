@@ -2,6 +2,9 @@
     padding: 0px;
     margin: 0px;
 }
+#house{
+    color: yellow;
+}
 
 .nav,li,ul{
         display: inline-block;
@@ -21,7 +24,7 @@
 .food{
     display:flex;
     margin-top: 10px;
-    gap: 40px;
+    gap: 20px;
 }
 .foodi{
     margin-top: 70px;
@@ -52,14 +55,21 @@
 }
 .ric{
     display: flex;
+    margin-bottom: 12%;
 }
 .ton {
     display: flex;
     margin-left: 80px;
+    margin-left: 22%;
 }
-.clint{
+.ton img{
+    height: 340px;
+    width:240px ;
+}
+.client{
     text-align: center;
     margin-top: 60px;
+    margin-bottom: 12%;
     }
     .test{
         text-align: center;
@@ -72,10 +82,12 @@
     display: flex;
     height: 100px;
     width:100px ;
-    position: relative;
+    
+    padding: 34px;
     }
 .picture{
     display:flex;
+    
 }
 .service{
     display :flex;
@@ -90,6 +102,14 @@
     width: 300px;
     display: flex;
 }
+.phone{
+    display: flex;
+    margin-left: 12%;
+    
+}
+.download{
+    
+}
 .map img{
     height:200px ;
     width:300px ;
@@ -102,17 +122,51 @@
     height: 500px;
     width:400px ;
 }
-.divv{
-    display: flex;
-}
-.footer{
-justify-content: space-between;
+footer{
+display: flex;
 background-color: black;
 color: aliceblue;
-margin: 100px;
+
 }
-
-
+.foot{
+    display: flex;
+    gap: 12%;
+}
+ul{ 
+    list-style: none;
+}
+.buttn{
+    display: flex;
+}
+.div1{
+display: flex;
+}
+.salat{
+display: flex;
+}
+.map{
+    display: flex;
+}
+.burg{
+    display: flex;
+}
+.web{
+    width: 30%;
+    height:50%;
     
-
-
+}
+.serv{
+    margin-left: 20%;
+}
+.our{
+    margin-left: 50%;
+    margin-top:10%;
+}
+.pic{
+    width: 50%;
+    height: 50%;
+}
+.place{
+display: flex;
+gap: 6%;
+}
