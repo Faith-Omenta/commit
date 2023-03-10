@@ -1,0 +1,118 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav,li,ul{
+        display: inline-block;
+        flex: 2px;
+        display: flex;
+        margin: 0px 15px;
+        list-style: none;
+         padding-left: 2px;
+        }
+.button{
+    margin:20px 40px;
+    padding: 10px 15px;
+    font-weight: bold;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.food{
+    display:flex;
+    margin-top: 10px;
+    gap: 40px;
+}
+.foodi{
+    margin-top: 70px;
+    font-weight: 100px;
+    text-align: center;
+    }
+.qual{
+    text-align: center;
+}
+
+.offer{
+    display: flex;
+    width: 400px;
+    height: 200px;}
+.flav{
+    display: flex;
+    width: 400px;
+    height: 200px;
+}
+.wings {
+    display: flex;
+    }
+.chic{
+    margin-bottom: 100px;
+}
+.del{
+    margin-top: 30px;
+}
+.ric{
+    display: flex;
+}
+.ton {
+    display: flex;
+    margin-left: 80px;
+}
+.clint{
+    text-align: center;
+    margin-top: 60px;
+    }
+    .test{
+        text-align: center;
+    }
+.fren{
+    text-align: center;
+
+}
+.picture img{
+    display: flex;
+    height: 100px;
+    width:100px ;
+    position: relative;
+    }
+.picture{
+    display:flex;
+}
+.service{
+    display :flex;
+    gap: 80px;
+    margin-top: 50px;
+    }
+    .serv{
+        font-weight: 50px;
+    }
+.phone img{
+    height:200px;
+    width: 300px;
+    display: flex;
+}
+.map img{
+    height:200px ;
+    width:300px ;
+
+}
+.div{
+    display :flex ;
+}
+.image img{
+    height: 500px;
+    width:400px ;
+}
+.divv{
+    display: flex;
+}
+.footer{
+justify-content: space-between;
+background-color: black;
+color: aliceblue;
+margin: 100px;
+}
+
+
+    
+
+
